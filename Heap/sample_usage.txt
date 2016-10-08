@@ -1,0 +1,43 @@
+root@biswajit-Inspiron-N5010:/home/biswajit/Downloads# ./heap
+>>Creating heap :-
+>>Enter no. of elements :3
+Enter data 1: 2
+Enter data 2: 3
+Enter data 3: 4
+Heap :-
+4	2	3	
+****Menu****
+1.Insert element
+2.Delete element
+3.Display heap
+4.Exit
+
+Enter your choice :3
+Heap :-
+4	2	3	
+****Menu****
+1.Insert element
+2.Delete element
+3.Display heap
+4.Exit
+
+Enter your choice :1
+Enter data : 6
+Heap :-
+6	4	3	2	
+****Menu****
+1.Insert element
+2.Delete element
+3.Display heap
+4.Exit
+
+Enter your choice :3
+Heap :-
+6	4	3	2	
+****Menu****
+1.Insert element
+2.Delete element
+3.Display heap
+4.Exit
+
+Enter your choice :4
